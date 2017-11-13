@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamzon homework assignment",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alrodis/bamazon.git"
+  },
+  "author": "arodis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alrodis/bamazon/issues"
+  },
+  "homepage": "https://github.com/alrodis/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
