@@ -18,28 +18,26 @@ The video will demonstrate the following:
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+* Ensure node.js and MySQL are connected
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+* Ensure that the following npm packages are installed:
 
 ```
-Give examples
+* mysql
+* inquirer
 ```
-
-
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
+* [Node.js](https://nodejs.org/en/) - open-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side.
+* [MySQL](https://www.mysql.com/) - open-source relational database management system
+* [mysql npm package](https://www.npmjs.com/package/mysql) - node.js driver for mysql
+* [inquirer npm package](https://www.npmjs.com/package/inquirer) - a collection of common interactive command line user interfaces.
 
 ## Authors
 
 * **Al Rodis** [Github](https://github.com/alrodis)
-
 
 ## Acknowledgments
 
