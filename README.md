@@ -12,9 +12,9 @@ The video will demonstrate the following:
 * The user will be prompted to enter the ID of the product they'd like to buy
 * The user will then be prompted to enter the quantity of the product they'd like to buy
 * The initial example will show what happens when a user inputs a desired quantity that is greater than the quantity in stock
-* The user will once again be prompted to select and item ID and quantity
+* The user will once again be prompted to select an item ID and quantity
 * This time the user's transaction is successful and they are presented with the total purchase price
-* I have also included a successful update of the database, based upon the quantity entered by a user, following a successful transaction
+* I have also included a successful update of the database (based upon the quantity entered by a user) following a successful transaction
 
 ## Getting Started
 
